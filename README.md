@@ -1,5 +1,11 @@
 # kickstart
+Simple full stack app for Ethereum using tools, such as, Solidity, web3, ganache-cli, React, Node, Nextjs, MetaMask, etc
 
+Project is based on the website Kickstarter and some of the underlying issues it has.  The main problem with Kickstarter is the funding goes straight to the user who starts the campaign.  With blockchain all of the funding is transparent, and with smart contracts we can add some safe measures to the project.
+
+Campaign starter can create requests for ethereum and users will vote whether the funds can be released or not(At the moment I set it to 1 otherwise if people wanted to test the app end-to-end they'd need more accounts to play with)
+
+### Screenshots
 ![screenshot from 2018-01-19 17-43-24](https://user-images.githubusercontent.com/13317855/35180668-87e1bb3a-fd69-11e7-8e13-b164373f7d5d.png)
 ![screenshot from 2018-01-19 17-43-45](https://user-images.githubusercontent.com/13317855/35180669-8b24e7d6-fd69-11e7-96cd-8c76e4115bce.png)
 ![screenshot from 2018-01-19 17-44-14](https://user-images.githubusercontent.com/13317855/35180670-8ce6ae06-fd69-11e7-9954-9e37b09fa5b9.png)
