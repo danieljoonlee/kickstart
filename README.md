@@ -1,1 +1,18 @@
 # kickstart
+
+![screenshot from 2018-01-19 17-43-24](https://user-images.githubusercontent.com/13317855/35180668-87e1bb3a-fd69-11e7-8e13-b164373f7d5d.png)
+![screenshot from 2018-01-19 17-43-45](https://user-images.githubusercontent.com/13317855/35180669-8b24e7d6-fd69-11e7-96cd-8c76e4115bce.png)
+![screenshot from 2018-01-19 17-44-14](https://user-images.githubusercontent.com/13317855/35180670-8ce6ae06-fd69-11e7-9954-9e37b09fa5b9.png)
+![screenshot from 2018-01-19 17-44-37](https://user-images.githubusercontent.com/13317855/35180671-8e647cc2-fd69-11e7-98dd-537325b59b11.png)
+![screenshot from 2018-01-19 17-45-00](https://user-images.githubusercontent.com/13317855/35180672-8fb8b61a-fd69-11e7-9409-2099badb368f.png)
+![screenshot from 2018-01-19 17-45-42](https://user-images.githubusercontent.com/13317855/35180674-91a62ade-fd69-11e7-8249-3ae86091e647.png)
+![screenshot from 2018-01-19 17-46-00](https://user-images.githubusercontent.com/13317855/35180675-9327b9a4-fd69-11e7-8d37-52230ae1b29c.png)
+![screenshot from 2018-01-19 17-46-18](https://user-images.githubusercontent.com/13317855/35180676-9548b346-fd69-11e7-9e1a-47213be71ff2.png)
+![screenshot from 2018-01-19 17-46-59](https://user-images.githubusercontent.com/13317855/35180677-96bb6a20-fd69-11e7-84e2-0743999038fa.png)
+![screenshot from 2018-01-19 17-47-13](https://user-images.githubusercontent.com/13317855/35180678-98358c00-fd69-11e7-9e8b-94d7276f57a7.png)
+![screenshot from 2018-01-19 17-48-09](https://user-images.githubusercontent.com/13317855/35180680-9a3e2282-fd69-11e7-90be-f57db5166d1d.png)
+![screenshot from 2018-01-19 17-48-22](https://user-images.githubusercontent.com/13317855/35180682-9b9656ea-fd69-11e7-967b-e42aa82a9d66.png)
+![screenshot from 2018-01-19 17-51-56](https://user-images.githubusercontent.com/13317855/35180683-9cf9885e-fd69-11e7-9fba-0a57e43b8529.png)
+![screenshot from 2018-01-19 17-53-39](https://user-images.githubusercontent.com/13317855/35180684-9eee90f0-fd69-11e7-9363-8e9262fa4371.png)
+![screenshot from 2018-01-19 17-54-38](https://user-images.githubusercontent.com/13317855/35180685-a139d0c2-fd69-11e7-811e-4f6c8ffbeb6a.png)
+![screenshot from 2018-01-19 17-55-55](https://user-images.githubusercontent.com/13317855/35180686-a35d87c2-fd69-11e7-9cdb-c8e9449c9736.png)
