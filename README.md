@@ -1,4 +1,23 @@
 # kickstart
+NOTE: You need a `.env` file in your repo, which isn't in this repo because I .gitignored it.
+
+Instructions to run:
+- Create a API URL from https://infura.io/ (it's free)
+- Download MetaMask https://metamask.io/
+  - Create an account(testing purposes)
+  - Save your account mneomic
+  - Set network to Rinkeby
+  - Get free ETH for test network at https://faucet.rinkeby.io/
+- Create a `.env` file
+  - ACCOUNT_MNEMONIC=your account mneomic from metamask
+  - INFURA_LINK=your api infura link
+- Command Prompt
+  - npm install
+  - node ethereum/compile.js
+  - node ethereum/deploy.js
+    - save address
+    - add in .env ADDRESS=saved address
+  
 Simple full stack app for Ethereum using tools, such as, Solidity, web3, ganache-cli, React, Node, Nextjs, MetaMask, etc
 
 Project is based on the website Kickstarter and some of the underlying issues it has.  The main problem with Kickstarter is the funding goes straight to the user who starts the campaign.  With blockchain all of the funding is transparent, and with smart contracts we can add some safe measures to the project.
