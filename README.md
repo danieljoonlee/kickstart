@@ -17,6 +17,7 @@ Instructions to run:
   - node ethereum/deploy.js
     - save address (console log from terminal)
     - add in .env ADDRESS=saved address
+  - npm run dev (http://localhost:3000)
   
 Simple full stack app for Ethereum using tools, such as, Solidity, web3, ganache-cli, React, Node, Nextjs, MetaMask, etc
 
